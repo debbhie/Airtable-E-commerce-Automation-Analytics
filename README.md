@@ -1,4 +1,4 @@
-# End-to-End Supermarket Operations & SLA Analytics (Airtable)
+<img width="2560" height="1438" alt="auto SLA" src="https://github.com/user-attachments/assets/5b7c2d13-3a66-435f-b9ed-440af1a7d557" /># End-to-End Supermarket Operations & SLA Analytics (Airtable)
 
 ## Project Overview
 This project uses a supermarket transaction dataset to design an end-to-end order fulfillment and SLA monitoring system in Airtable.
@@ -103,8 +103,10 @@ This automation closes the order lifecycle, ensuring delivery events are consist
 * SLA Met ≠ Yes (i.e., SLA not met)
  - Actions:
 * Automatically check the SLA Breach flag on the order record
+<img width="2560" height="1438" alt="auto SLA" src="https://github.com/user-attachments/assets/f82017d4-73d8-46c1-b6d5-8779990d1f38" />
 
 Purpose:
+
 This automation identifies and flags orders that exceed the agreed SLA delivery timeframe, enabling quick visibility into operational failures and supporting SLA performance analysis.
 
 ### Why These Automations Matter
@@ -136,16 +138,19 @@ Provide leadership with a high-level view of performance across orders, revenue,
 * Operations Dashboard
 Purpose:
 Help operations and fulfillment teams monitor delivery performance and identify bottlenecks.
+<img width="2549" height="1433" alt="order dashboard" src="https://github.com/user-attachments/assets/02db53bf-f3c1-410f-a533-f9b36c9635d6" />
 
 * Key Components:
  - SLA Breach by Fulfillment Status – Bar chart showing how SLA breaches vary across fulfillment stages.
  - Delayed Deliveries – Bar chart comparing delivery delays against SLA targets (5, 10, 20, 30 days).
  - Order Status vs Payment Method (Pivot Table) – Breakdown of payment methods (E-wallet, Cash, Credit Card) for paid orders.
+<img width="2558" height="1443" alt="order dashboard2" src="https://github.com/user-attachments/assets/7ac332cb-4abf-4d14-9c61-e78c496e5229" />
 
 * Business Value:
  - Highlights where SLA breaches are concentrated.
  - Helps operations teams focus on stages causing the most delays.
  - Supports payment-method analysis for operational planning.
+<img width="2558" height="1453" alt="order dashboard3" src="https://github.com/user-attachments/assets/cdd66ee8-d3e4-4b9c-92e7-faf38fb7704d" />
 
 * Customer Dashboard
 Purpose:
@@ -154,11 +159,13 @@ Provide insights into customer value and purchasing behavior.
 * Key Components:
  - High-Value Customers – Pie chart showing the distribution of customers by segment (High, Standard, Low value).
  - Repeat Buyers – Bar chart identifying customers with multiple purchases.
+<img width="2560" height="1443" alt="customer dashboard" src="https://github.com/user-attachments/assets/f60ff744-2b80-4bca-ac0b-7f60d5725b41" />
 
 * Business Value:
  - Reveals that a small percentage of customers contribute the majority of revenue.
  - Supports targeted retention and loyalty strategies.
  - Enables segmentation-based decision making.
+<img width="2556" height="1428" alt="order dashboard4" src="https://github.com/user-attachments/assets/5b82a19b-3048-42ab-8b20-ac93ffdee9c8" />
 
 ## Key Insights
 
