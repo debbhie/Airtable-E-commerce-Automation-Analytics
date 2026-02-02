@@ -11,10 +11,10 @@ The data includes order details, product categories, payment information, custom
 ## Data Modeling & System Design
 The original flat dataset was restructured into a relational data model to support analytics, automation, and scalability.
 * Core Tables
-- Customers
-- Orders
-- Products
-- Order Items (bridge table)
+ - Customers
+ - Orders
+ - Products
+ - Order Items (bridge table)
 
 Relationships
 - The Orders table is linked to the Customers table to enable customer-level analytics. (Customers to orders table: Many to one relationship)
