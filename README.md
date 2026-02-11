@@ -2,6 +2,13 @@
 
 ## TABLE OF CONTENTS
 - [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Data Modelling & System Design](#data-modelling-&-system-design)
+- [Key Fields & Metrics](#key-fields-&-metrics)
+- [Automations Implemented](#automation-implemented)
+- [Dashboard (Airtable Interfaces](#dashboard-(airtable-interface))
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
 
 ## Project Overview
 This project uses a supermarket transaction dataset to design an end-to-end order fulfillment and SLA monitoring system in Airtable.
