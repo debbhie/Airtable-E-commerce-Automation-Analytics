@@ -1,5 +1,8 @@
 # End-to-End Supermarket Operations & SLA Analytics (Airtable)
 
+## TABLE OF CONTENTS
+- Project Overview[#project-overview]
+
 ## Project Overview
 This project uses a supermarket transaction dataset to design an end-to-end order fulfillment and SLA monitoring system in Airtable.
 The goal was to transform flat historical sales data into a scalable operational workflow that tracks order delivery performance, customer value, and service-level agreement (SLA) compliance using data modeling, automation, and dashboards.
