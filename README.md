@@ -3,8 +3,8 @@
 ## TABLE OF CONTENTS
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
-- [Data Modelling & System Design](#data-modelling-&-system-design)
-- [Key Fields & Metrics](#key-fields-&-metrics)
+- [Data Modelling & System Design](#data-modelling-system-design)
+- [Key Fields & Metrics](#key-fields-metrics)
 - [Automations Implemented](#automations-implemented)
 - [Dashboard (Airtable Interfaces)](#dashboard-airtable-interface)
 - [Key Insights](#key-insights)
