@@ -18,7 +18,7 @@ The goal was to transform flat historical sales data into a scalable operational
 The dataset was obtained from a publicly available supermarket sales dataset, representing historical point-of-sale transactions.
 The data includes order details, product categories, payment information, customer attributes, and transaction dates.
 
-## Data Modeling & System Design
+## Data Modelling & System Design
 The original flat dataset was restructured into a relational data model to support analytics, automation, and scalability.
 * Core Tables:
  - Customers
