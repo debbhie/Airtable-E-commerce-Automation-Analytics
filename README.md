@@ -5,8 +5,8 @@
 - [Data Source](#data-source)
 - [Data Modelling & System Design](#data-modelling-&-system-design)
 - [Key Fields & Metrics](#key-fields-&-metrics)
-- [Automations Implemented](#automation-implemented)
-- [Dashboard (Airtable Interfaces](#dashboard-(airtable-interface))
+- [Automations Implemented](#automations-implemented)
+- [Dashboard (Airtable Interfaces](#dashboard-airtable-interface)
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 
